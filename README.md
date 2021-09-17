@@ -1,0 +1,2 @@
+# Automatic-youtube-video-and-playlist-downloader-using-python
+I am facing a problem while I learn programming. So, I decide to download some videos and see them. But, while I try to download playlist, due to my lazyness I always want automation. So, I decide to make a youtube downloader by which I can download whole playlist by just one click and this the beauty of this project. I use some external libraries for the downloading purpose.
